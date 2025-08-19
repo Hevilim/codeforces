@@ -1,0 +1,20 @@
+{
+	"Competitive Programming": {
+		"prefix": "!cp",
+		"body": [
+			"#include <bits/stdc++.h>",
+			"using namespace std;\n",
+			"int main() {",
+			"\tios_base::sync_with_stdio(false);",
+			"\tcin.tie(nullptr);\n",
+			// "\t#ifndef ONLINE_JUDGE",
+        	// "\t\tfreopen(\"input.txt\", \"r\", stdin);",
+        	// "\t\tfreopen(\"output.txt\", \"w\", stdout);",
+    		// "\t#endif\n",
+			"\t$0\n",
+			"\treturn 0;",
+			"}\n"
+		],
+		"description": "Competitive programming starter code."
+	}
+}
